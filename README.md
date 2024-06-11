@@ -18,11 +18,17 @@ The virtual online banking system project contains
 
 
  The home page which contains
+ 
  Login button
+ 
  Registration button
+ 
  Return to home page button
+ 
  Services navigation bar
+ 
  Some future services
+ 
  Data page
 
 
